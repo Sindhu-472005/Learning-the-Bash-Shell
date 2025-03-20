@@ -3,6 +3,7 @@ Basic shell Commands
 
 Bash shell - Bourne again shell is the default command line for most of the linux distributions. it allow us to execute command or scripts interactivily but one at a time.  
 
+
 history of commands
 
 Bash stores all our previous commands, we can access it by using:
@@ -13,8 +14,8 @@ Bash stores all our previous commands, we can access it by using:
 
 **!!** - repeats the last command
 
-**Directory management**
 
+**Directory management**
 
 Command **mv file1.txt Documents/** moves a file named file1.txt to the documents directory 
 
@@ -50,11 +51,13 @@ Command **u+rwx, g+rx, o+rx script.sh** gives full permissiond to the owner and 
 
 **rm file** removes file
 
+
 **Networks**
 
 **ifconfig** shows network interfaces
 
 **ip a** shows IP addresses
+
 
 **Process Management**
 
