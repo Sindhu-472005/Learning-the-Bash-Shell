@@ -3,6 +3,15 @@ Basic shell Commands
 
 Bash shell - Bourne again shell is the default command line for most of the linux distributions. it allow us to execute command or scripts interactivily but one at a time.  
 
+history of commands
+
+Bash stores all our previous commands, we can access it by using:
+
+**history** --- shows the list of our recent commands
+
+**!number** - execute a command from our command history by its number
+
+**!!** - repeats the last command
 
 **Directory management**
 
@@ -21,7 +30,7 @@ Command **u+rwx, g+rx, o+rx script.sh** gives full permissiond to the owner and 
 
 **wc -c** → Counts the number of bytes in a file
 
-**ls** list files in adirectory 
+**ls** list files in a directory 
 
 **ls-l** lists all files with detailed information, permission and size etc.
 
@@ -50,6 +59,7 @@ Command **u+rwx, g+rx, o+rx script.sh** gives full permissiond to the owner and 
 **Process Management**
 
 **ps aux** lists running processes
+
 **top** shows system resource usuage 
 
 
