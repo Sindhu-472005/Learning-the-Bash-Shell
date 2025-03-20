@@ -15,6 +15,8 @@ Bash stores all our previous commands, we can access it by using:
 **!!** - repeats the last command
 
 
+
+
 **Directory management**
 
 Command **mv file1.txt Documents/** moves a file named file1.txt to the documents directory 
