@@ -1,10 +1,10 @@
 # Learning-the-Bash-Shell
 
-Shell 
+**Shell**
 
 Shell is a command line interface which allow users to interact with operating through entering commands in it. it acts as a intermediate between users and system's kernel, its main work is to process and execute commands.
 
-History of UNIX shells
+**History of UNIX shells**
 
 1. sh -- Bourne shell, which is the original UNIX shell it is very simple      amd fast.
 
@@ -16,11 +16,11 @@ History of UNIX shells
 
 
 
-Bash shell - Bourne again shell is the default command line for most of the linux distributions. it allow us to execute command or scripts interactivily but one at a time.  
+**Bash shell** - Bourne again shell is the default command line for most of the linux distributions. it allow us to execute command or scripts interactivily but one at a time.  
 
-Basic shell Commands
+**Basic shell Commands**
 
-history of commands
+**History of commands**
 
 Bash stores all our previous commands, we can access it by using:
 
